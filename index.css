@@ -215,8 +215,7 @@ line-height: 32px;
 .holiday-main-section{
     margin-top: 150px;
 }
-.images{
-}
+
 .gift{
     margin-bottom: -180px;
     width: 50%;
@@ -229,10 +228,50 @@ position: relative;
 .red-footer-image{
    background-image: url(resources/Rectangle.png);
    height: 229px;
+   margin-bottom: 100px;
 }
-.discount{
+.dis{
     right: 25%;
     margin-top: 70px;
     position: absolute;
 }
-
+.products-section{
+    padding: 10px;
+}
+.pim{
+    width: 400px;
+    padding: 10px;
+    opacity: 0.8;
+}
+.pim:hover{
+    transition: 1s;
+    opacity: 1;
+}
+.subcribe{
+height: 616px;
+    border-radius: 50px;
+background: rgba(255, 0, 0, 0.05);
+}
+.input-box{
+    margin-left: 25%;
+}
+.email-box{
+ width: 500px;
+height: 57px;
+border: none;
+font-size: 25px;
+padding: 10px;
+}
+.submit-box{
+width: 155px;
+height: 77px;
+font-size: 30px;
+border: none;
+background: #F00;
+color: #FFF;
+margin-left: -5px;
+}
+.input-box{
+    display: flex;
+    align-items: center;
+}
