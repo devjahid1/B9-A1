@@ -263,6 +263,7 @@ border: none;
 font-size: 25px;
 padding-left: 30px;
 border-radius: 50px 0px 0px 50px;
+outline: none;
 }
 .submit-box{
 width: 160px;
@@ -277,4 +278,7 @@ border-radius: 0px 50px 50px 0px;
 .input-box{
     display: flex;
     align-items: center;
+}
+.email-box{
+    border: none;
 }
