@@ -248,6 +248,7 @@ position: relative;
     opacity: 1;
 }
 .subcribe{
+    margin-top: 50px;
 height: 616px;
     border-radius: 50px;
 background: rgba(255, 0, 0, 0.05);
@@ -257,19 +258,21 @@ background: rgba(255, 0, 0, 0.05);
 }
 .email-box{
  width: 500px;
-height: 57px;
+height: 75px;
 border: none;
 font-size: 25px;
-padding: 10px;
+padding-left: 30px;
+border-radius: 50px 0px 0px 50px;
 }
 .submit-box{
-width: 155px;
+width: 160px;
 height: 77px;
 font-size: 30px;
 border: none;
 background: #F00;
 color: #FFF;
 margin-left: -5px;
+border-radius: 0px 50px 50px 0px;
 }
 .input-box{
     display: flex;
