@@ -149,6 +149,7 @@ font-size: 20px;
 .comming-soon{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 90px;
 }
 .sub-title-offer{
 color: #F00;
@@ -181,3 +182,57 @@ padding: 20px;
 width: 140px;
 height: 140px;
 }
+.holiday-sub-title{
+color: #070211;
+font-family: Inter;
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+}
+.holiday-span{
+color: #F00;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+}
+.holiday-title{
+    color: #070211;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 0;
+   padding-top: 20px;
+}
+.holiday-desc{
+width: 1068px;
+color: rgba(7, 2, 17, 0.60);
+margin: 0 auto;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+}
+.holiday-main-section{
+    margin-top: 150px;
+}
+.images{
+}
+.gift{
+    margin-bottom: -180px;
+    width: 50%;
+}
+.girl{
+padding-left: 227px;
+margin-bottom: -4px;
+position: relative;
+}
+.red-footer-image{
+   background-image: url(resources/Rectangle.png);
+   height: 229px;
+}
+.discount{
+    right: 25%;
+    margin-top: 70px;
+    position: absolute;
+}
+
